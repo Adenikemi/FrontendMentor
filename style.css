@@ -1,5 +1,7 @@
-body {
+body{
   background: #D5E1EF;
+}
+main {
   height: 96vh;
   display: flex;
   justify-content: center;
